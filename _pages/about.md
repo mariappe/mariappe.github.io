@@ -1,16 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Maria's website!"
+title: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my website! I am a Research Assistant Professor at the Hobby School of Public Affairs at the University of Houston. 
-
-About me
-======
+I am a Research Assistant Professor at the University of Houston's Hobby School of Public Affairs. 
 
 I have worked as a Research Associate at the Hobby School’s Center for Public Policy (CPP) since 2020, where I have supported research projects on Texas Trends, community resilience, natural hazards, Texas Metro Blueprint, community energy and more.  
 My research interests focus on sustainability, community resilience to natural hazards, community energy, and urban policy using spatial, quantitative and survey methods to develop data-driven solutions that inform policymaking.
