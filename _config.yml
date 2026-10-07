@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Maria Perez Arguelles"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research Assistant Professor"
+  location         : "Houston, TX"
+  employer         : "Hobby School of Public Affairs, University Of Houston"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mppereza@central.uh.edu" 
 
   # Academic websites
   academia         : # URL
