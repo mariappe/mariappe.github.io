@@ -11,6 +11,10 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=3Ib7AKAAAAAJ&hl=en
 
+  - title: "CV"
+    url: /files/Resume.pdf
+    
+
   # - title: "Talks"
   #   url: /talks/    
 
@@ -22,9 +26,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /files/Resume.pdf
     
   # - title: "CV"
   #   url: /cv-json/
