@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV here] (https://mariappe.github.io/files/Resume.pdf)
 
+[Download CV here](/files/Resume.pdf)

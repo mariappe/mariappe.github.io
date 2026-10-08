@@ -11,12 +11,11 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Maria Perez Arguelles"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Maria Perez Arguelles"
+description              : &description "Academic website of Maria Perez Arguelles, Research Assistant Professor at the Hobby School of Public Affairs, University of Houston"
+url                      : https://mariappe.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mariappe/mariappe.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +28,7 @@ author:
   bio              : "Research Assistant Professor"
   location         : "Houston, TX"
   employer         : "University Of Houston"
-  uri              : #"https://www.uh.edu/hobby/index.php"
+  uri              : "https://www.uh.edu/hobby/"
   email            : "mppereza@central.uh.edu" 
 
   # Academic websites
