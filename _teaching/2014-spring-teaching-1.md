@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "POLC 6317: Public Policy Capstone"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2026-spring-polc-6317-capstone
+venue: "Hobby School of Public Affairs, University of Houston"
+date: 2026-01-01
+location: "Houston, TX, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Co-taught with Gail Buttorff (Spring 2026). In this Master of Public Policy capstone, student teams take on a substantive research project: under instructor guidance they develop data collection and analysis skills, write policy reports, and present their findings, with training in data and GIS analysis tools.

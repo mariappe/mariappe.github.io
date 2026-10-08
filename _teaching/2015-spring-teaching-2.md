@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Graduate Teaching Assistant, Agricultural Economics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching assistant"
+permalink: /teaching/2012-2014-gta-agricultural-economics
+venue: "Department of Agricultural Economics, Texas A&M University"
+date: 2012-08-01
+location: "College Station, TX, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Graduate Teaching Assistant in the Department of Agricultural Economics at Texas A&M University (2012-2014).

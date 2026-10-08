@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Probabilistic Framework for Evaluating Food Security of Households in the Aftermath of a Disaster"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2019-food-security-disaster-framework
+excerpt: "A probabilistic framework for evaluating household food security in the aftermath of a disaster."
+date: 2019-01-01
+venue: 'Structure and Infrastructure Engineering'
+paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/15732479.2019.1584824'
+citation: 'Nozhati, S., et al. (2019). &quot;Probabilistic Framework for Evaluating Food Security of Households in the Aftermath of a Disaster.&quot; <i>Structure and Infrastructure Engineering</i>, 15(8), 1060-1074.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+[Read the article](https://www.tandfonline.com/doi/abs/10.1080/15732479.2019.1584824).

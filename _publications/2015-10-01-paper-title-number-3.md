@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Habitat and Environmental Risks of Chagas Disease in Low-Income Colonias and Peri-Urban Subdivisions in South Texas"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2021-chagas-colonias-south-texas
+excerpt: "Habitat and environmental risks of Chagas disease in low-income colonias and peri-urban subdivisions in South Texas."
+date: 2021-01-01
+venue: 'Habitat International'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0197397521001491'
+citation: 'Safarova, B., et al. (2021). &quot;Habitat and Environmental Risks of Chagas Disease in Low-Income Colonias and Peri-Urban Subdivisions in South Texas.&quot; <i>Habitat International</i>, 118, 102460.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+[Read the article](https://www.sciencedirect.com/science/article/pii/S0197397521001491).
