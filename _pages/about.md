@@ -18,4 +18,4 @@ I have worked as a research associate at the Hobby School's Center for Public Po
 
 I hold a B.S. in Economics from Universidad de los Andes in Bogotá, Colombia, and an M.S. in Agricultural Economics and a Ph.D. in Urban and Regional Science, both from Texas A&M University.
 
-Check the pages above to learn more about the work I do!
+Browse the sections above to learn more about my work.
