@@ -7,12 +7,12 @@ author_profile: true
 
 ## Articles Under Review
 
-- "Change in Multifamily Property Values near Light Rail Transit Stations in Houston, Texas." With John Park.
+- "Change in Multifamily Property Values near Light Rail Transit Stations in Houston, Texas." With John Park and Agustin Vallejo.
 
 ## Working Papers
 
 - "Powering Communities: Assessing the Social Impact of Clean Energy and Microgrids in Houston." With Jian Shi.
-- "Bracing for the Storm: Ideal vs Actual Natural Disaster Preparedness in Texas."
+- "Bracing for the Storm: Ideal vs Actual Natural Disaster Preparedness in Texas."  
 - "Customizing Global Vulnerability Indices for Local Use: The Role of Survey Data."
 - "Visualizing VRAP Indicators for Policy Making in the Community: The Case of Houston."
 
