@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](/files/Resume.pdf)
+<a href="{{ base_path }}/files/Resume.pdf" class="btn btn--primary" download>Download CV as PDF</a>
+
+<iframe src="{{ base_path }}/files/Resume.pdf" width="100%" height="900px" style="border: 1px solid #ddd; margin-top: 1em;" title="CV PDF">
+  <p>Your browser does not support embedded PDFs. <a href="{{ base_path }}/files/Resume.pdf">Download the CV here</a>.</p>
+</iframe>
 
 ## Academic Positions
 
