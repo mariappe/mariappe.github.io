@@ -28,7 +28,7 @@ author:
   bio              : "Research Assistant Professor"
   location         : "Houston, TX"
   employer         : "University of Houston"
-  # uri              : "https://www.uh.edu/hobby/"
+  uri              : #"https://www.uh.edu/hobby/"
   email            : "mppereza@central.uh.edu" 
 
   # Academic websites
