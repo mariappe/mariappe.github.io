@@ -4,8 +4,7 @@ excerpt: "Visualizing vulnerability and resilience indicators for policymaking i
 collection: portfolio
 header:
   teaser: /images/vrap-dashboard.jpg
+link: https://www.uh.edu/hobby/vrap-dashboard/
 ---
 
 Research project at the Hobby School of Public Affairs, University of Houston (2026): visualizing VRAP (vulnerability and resilience assessment) indicators to support policymaking in Houston.
-
-[Project page](https://www.uh.edu/hobby/vrap-dashboard/)

@@ -10,13 +10,19 @@ author_profile: true
 {% for post in site.portfolio %}
 <div style="display: flex; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;">
   {% if post.header.teaser %}
-  <a href="{{ base_path }}{{ post.url }}" style="flex: 0 0 320px;">
+  <a href="{{ post.link | default: post.url }}" style="flex: 0 0 320px;">
     <img src="{{ base_path }}{{ post.header.teaser }}" alt="{{ post.title }}" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
   </a>
   {% endif %}
   <div>
-    <h2 style="margin-top: 0;"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
-    {{ post.excerpt | markdownify }}
+    <h2 style="margin-top: 0;">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ post.title }}</a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+      {% endif %}
+    </h2>
+    {{ post.content | markdownify }}
   </div>
 </div>
 {% endfor %}
